@@ -53,6 +53,7 @@
 - `git branch -d nome-da-branch`: Deleta uma branch.
 - `git branch -v`: Lista branches com informações adicionais.
 - `git merge [branch]`: Mescla mudanças de uma branch para outra.
+- `git checkout [branch] [arquivo]`:Este comando permite que você restaure um arquivo específico de outra branch sem precisar mudar para ela.
 
 ## Comandos Avançados
 
